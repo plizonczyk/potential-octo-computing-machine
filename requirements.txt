@@ -1,0 +1,4 @@
+notebook==4.2.3
+numpy==1.11.2
+pandas==0.19.1
+
