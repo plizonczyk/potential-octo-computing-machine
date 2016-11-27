@@ -42,4 +42,4 @@ class AHP(object):
     def run(self):
         self.criteria_eig, self.judgements_eig = self._calculate_eigenvectors()
         self.scores = self._calculate_scores()
-        print(self.scores)
+        return self.scores
